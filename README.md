@@ -1,3 +1,4 @@
+![alt text](https://github.com/sudharshan3/TBF/blob/master/icon_64.png) 
 # TBF DEPOSIT CALCULATOR
 Deposit Calculator developed as chrome extension for TBF NIDHI (KUMBAKONAM) Limited
 
@@ -10,5 +11,12 @@ Deposit Calculator developed as chrome extension for TBF NIDHI (KUMBAKONAM) Limi
 
 
 ## Extension Screen shots
-### Calculator Screen
+
+| Calculator Screen  | Schemes Screen |
+| ------------- | ------------- |
+| ![alt text](https://github.com/sudharshan3/TBF/blob/master/Calculator.JPG) | ![alt text](https://github.com/sudharshan3/TBF/blob/master/schemes.JPG)  |
+
+
+
+
 
