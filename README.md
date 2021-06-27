@@ -9,3 +9,6 @@ Deposit Calculator developed as chrome extension for TBF NIDHI (KUMBAKONAM) Limi
 5. Done :+1:
 
 
+## Extension Screen shots
+### Calculator Screen
+
