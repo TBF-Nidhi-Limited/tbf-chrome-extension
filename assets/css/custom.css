@@ -96,6 +96,7 @@ a {
 
 .input-group-text {
     border: none!important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .output-blue:hover {
